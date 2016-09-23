@@ -1,0 +1,16 @@
+.navbar-brand {
+ padding: 13px 20px;
+}
+
+.jumbotron{
+    margin-top:1px;
+}
+
+#form{
+    margin-top: 10px;
+    text-align: center;
+}
+
+input{
+      margin-bottom: 10px;
+}
